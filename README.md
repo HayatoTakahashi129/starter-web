@@ -1,6 +1,7 @@
 #Starter Web Project
 
 This is a simple website for sample.
+Github together. Adding a line for rebasing example.
 
 ##Introduction
 
