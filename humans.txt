@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Hayato Takahashi hayato@git.training @awesomeht
 
 # THANKS
 
