@@ -1,7 +1,8 @@
 #Starter Web Project
 
 This is a simple website for sample.
-Github together. Adding a line for rebasing example.
+Github together. Adding a line for rebasing example, then
+more changes from myfeature too.
 
 ##Introduction
 
