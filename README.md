@@ -15,6 +15,10 @@ This is a sample working.
 ##Deployment
 This is a sample 2.
 
+#How to Contribute
+
+Please fork this repository and then issue Pull Request for review.
+
 #Copyright
 
 2020 Git training.
