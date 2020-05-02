@@ -23,4 +23,4 @@ Please fork this repository and then issue Pull Request for review.
 
 #Copyright
 
-2020 Git training.
+2020 Git training.All rights reserved.
